@@ -7,10 +7,10 @@ assignees: ''
 
 ---
 
-Initial action (ELog entry):
-Event type (comma separated):
-Subsystem (comma separated):
-Interim Containment Actions:
-Root Cause Analysis:
-Corrective Actions:
-Preventative Actions:
+**Initial action (ELog entry)**: 
+**Event type (comma separated)**: 
+**Subsystem (comma separated)**: 
+**Interim Containment Actions**: 
+**Root Cause Analysis**: 
+**Corrective Actions**: 
+**Preventative Actions**:
